@@ -1,1 +1,0 @@
-# Pengenalan-Bahasa-Isyarat-Menggunakan-Model-LSTM
